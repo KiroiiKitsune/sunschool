@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/sunschool/static/css/main.b994ce83.css",
+    "main.js": "/sunschool/static/js/main.f421cbef.js",
+    "static/media/kal-visuals-kJklJAcwqLk-unsplash 1.png": "/sunschool/static/media/kal-visuals-kJklJAcwqLk-unsplash 1.fdd37be282afb28a9182.png",
+    "static/media/logofoot.png": "/sunschool/static/media/logofoot.5ade315c4d1fceff9687.png",
+    "static/media/arrowUp.png": "/sunschool/static/media/arrowUp.9f73cb1852b0d4a00ea3.png",
+    "static/media/KAUFMANN.TTF": "/sunschool/static/media/KAUFMANN.933919753fd330341451.TTF",
+    "static/media/GothamPro-Italic.woff": "/sunschool/static/media/GothamPro-Italic.922fd60af5ac485241a8.woff",
+    "static/media/gothampro-medium.woff": "/sunschool/static/media/gothampro-medium.4b2ea6dcd60a5668ec25.woff",
+    "static/media/GothamPro-Bold.woff": "/sunschool/static/media/GothamPro-Bold.e8ddda7220a05cf00f1c.woff",
+    "static/media/GothamPro.woff": "/sunschool/static/media/GothamPro.9e3de47599b8a119a2b3.woff",
+    "static/media/GothamPro-Black.woff": "/sunschool/static/media/GothamPro-Black.b8ef8e03f8636e1831c5.woff",
+    "static/media/upArrow.webp": "/sunschool/static/media/upArrow.f71338d3ba35a8b1fc59.webp",
+    "static/media/GothamPro-Italic.woff2": "/sunschool/static/media/GothamPro-Italic.ae18b5c42c66178406a4.woff2",
+    "static/media/gothampro-medium.woff2": "/sunschool/static/media/gothampro-medium.475a0173f7022f67dc86.woff2",
+    "static/media/GothamPro.woff2": "/sunschool/static/media/GothamPro.97a23059df8a758600fb.woff2",
+    "static/media/GothamPro-Bold.woff2": "/sunschool/static/media/GothamPro-Bold.b9c5d1404c9e2ed632e3.woff2",
+    "static/media/GothamPro-Black.woff2": "/sunschool/static/media/GothamPro-Black.7ed52d1381d16affbaa7.woff2",
+    "static/media/icons8-check.svg": "/sunschool/static/media/icons8-check.85d39173aa16206bdd0e.svg",
+    "index.html": "/sunschool/index.html",
+    "main.b994ce83.css.map": "/sunschool/static/css/main.b994ce83.css.map",
+    "main.f421cbef.js.map": "/sunschool/static/js/main.f421cbef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b994ce83.css",
+    "static/js/main.f421cbef.js"
+  ]
+}
