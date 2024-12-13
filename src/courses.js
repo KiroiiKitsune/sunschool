@@ -1,10 +1,12 @@
-{
+import CreativePhotographyImg from './img/Creative Photography Studio Scene 2.png';
+
+export default {
   "projectList": [
     {
       "slug": "THE-COURSE-FUNDAMENTALS-OF-ACTING",
       "name": "КУРС “<span class='yellow-span '>ОСНОВЫ</span> АКТЕРСКОГО МАСТЕРСТВА”",
       "txt": "info",
-      "src": "./../../img/Creative Photography Studio Scene 2.png",
+      "src": CreativePhotographyImg,
       "alt": "Актерское мастерство",
       "nameTutor": "АНДРЕЙ ФИНЯГИН",
       "courseInfo": [
@@ -15,7 +17,7 @@
           "start": "с начала запуска школы"
         }
       ],
-      "bgHeader": "../../img/Creative Photography Studio Scene 2.png",
+      "bgHeader": CreativePhotographyImg,
       "bg": "../../img/jakob.png",
       "bgCourse": "../../img/тень.png",
       "tutorInfo": [

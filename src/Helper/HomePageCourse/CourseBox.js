@@ -6,7 +6,7 @@ import './style.css'
 import React from 'react'
 
 import {  NavLink } from 'react-router-dom'
-import courseData from './../../courses.json'
+import courseData from '../../courses'
 
 
 

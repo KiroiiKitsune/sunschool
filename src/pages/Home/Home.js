@@ -2,7 +2,7 @@
 import './style.css'
 import Course from '../../Helper/HomePageCourse/CourseBox'
 import Form from '../../components/Form/Form'
-import CourseData from './../../courses.json'
+import CourseData from './../../courses'
 
 // import Arrow from './../../../public/img/Polygon 5.png'
 

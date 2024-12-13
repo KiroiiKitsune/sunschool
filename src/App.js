@@ -20,6 +20,7 @@ function App() {
 
         <Routes>
           <Route path="/" element={<Navigate to="/home" replace />} />
+          <Route path="/sunschool" element={<Navigate to="/home" replace />} />
           <Route path="/home" element={<Home/>} />
           <Route path="/projects/:slug" element={<CourseDetails />} />
           <Route
